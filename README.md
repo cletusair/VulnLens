@@ -19,3 +19,6 @@
 ```bash
 chmod +x vulnscan.sh
 ./vulnscan.sh
+
+chmod +x va-lite.sh
+./va-lite.sh
